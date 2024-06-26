@@ -1,1 +1,1 @@
-# bryansoaresschmidt.gitgub.io
+# bryansoaresschmidt.github.io
