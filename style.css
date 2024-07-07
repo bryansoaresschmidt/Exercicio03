@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
     font-family: 'Thunder';
     src: url('./fonts/LeagueSpartan-VariableFont_wght.ttf') format('truetype');
@@ -371,4 +372,12 @@ input {
     left: 0.6vw;
     &:hover {
     }
+=======
+#body {
+    background: rgb(0, 0, 0)
+}
+
+#div_boasvindas {
+    background: rgb(0, 0, 255)
+>>>>>>> bf6efd8c072197ae61675a7238c6e4da1bcb9ddb
 }
